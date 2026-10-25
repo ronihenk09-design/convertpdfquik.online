@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://convertpdfquik.online/sitemap.xml
+Host: https://convertpdfquik.online
