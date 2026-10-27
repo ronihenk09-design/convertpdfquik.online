@@ -1,4 +1,12 @@
 User-agent: *
 Allow: /
-Sitemap: https://convertpdfquik.online/sitemap.xml
-Host: https://convertpdfquik.online
+Disallow: /cdn-cgi/
+Disallow: /*?*
+Crawl-delay: 1
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+Sitemap: https://gabungvideo.online/sitemap.xml
+Sitemap: https://gabungvideo.online/sitemap.xml?ping=2026-10-26
